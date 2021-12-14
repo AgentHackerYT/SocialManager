@@ -1,0 +1,32 @@
+{
+  "name": "socialmanager",
+  "version": "1.0.0",
+  "description": "A Simple Module To Make A Social Media ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgentHackerYT/SocialManager.git"
+  },
+  "keywords": [
+    "socialmedia",
+    "easy-to-use"
+  ],
+  "author": "jenil-dev",
+  "license": "BSL-1.0",
+  "bugs": {
+    "url": "https://github.com/AgentHackerYT/SocialManager/issues"
+  },
+  "homepage": "https://github.com/AgentHackerYT/SocialManager#readme",
+  "dependencies": {
+    "bad-words": "^3.0.4",
+    "express": "^4.17.1",
+    "express-rate-limit": "^5.5.1",
+    "quick.db": "^7.1.3"
+  },
+  "engines": {
+    "node": ">= 0.6"
+  }
+}
